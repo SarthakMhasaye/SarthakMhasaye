@@ -78,10 +78,10 @@
 ###
 
 <p align="center">
-  <img height="170"
+  <img height="150"
        src="https://github-readme-stats-sigma-five.vercel.app/api?username=SarthakMhasaye&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 
-  <img height="170"
+  <img height="150"
        src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SarthakMhasaye&layout=compact&theme=dracula"/>
 </p>
 
@@ -94,4 +94,3 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/SarthakMhasaye/SarthakMhasaye/snake-output/snake.svg" alt="Snake animation" />
 </p>
-###
