@@ -77,13 +77,12 @@
 
 ###
 
-<p align="center">
-  <img height="150"
-       src="https://github-readme-stats-sigma-five.vercel.app/api?username=SarthakMhasaye&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<div align="center">
 
-  <img height="150"
-       src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SarthakMhasaye&layout=compact&theme=dracula"/>
-</p>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SarthakMhasaye&show_icons=true&theme=dracula" />
+<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarthakMhasaye&layout=compact&theme=dracula" />
+
+</div>
 
 ###
 
