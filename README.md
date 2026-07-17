@@ -77,11 +77,12 @@
 
 ###
 
-<div data-importer="stats" align="center">
- <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SarthakMhasaye&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+<p align="center">
+  <img height="170"
+       src="https://github-readme-stats-sigma-five.vercel.app/api?username=SarthakMhasaye&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarthakMhasaye&layout=compact&theme=dracula" />
+  <img height="170"
+       src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SarthakMhasaye&layout=compact&theme=dracula"/>
 </p>
 
 ###
@@ -90,16 +91,7 @@
 </div>
 
 ###
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/SarthakMhasaye/SarthakMhasaye/snake-output/github-contribution-grid-snake-dark.svg">
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/SarthakMhasaye/SarthakMhasaye/snake-output/github-contribution-grid-snake.svg">
-  <img
-    alt="GitHub contribution snake"
-    src="https://raw.githubusercontent.com/SarthakMhasaye/SarthakMhasaye/snake-output/github-contribution-grid-snake-dark.svg">
-</picture>
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SarthakMhasaye/SarthakMhasaye/snake-output/snake.svg" alt="Snake animation" />
+</p>
 ###
