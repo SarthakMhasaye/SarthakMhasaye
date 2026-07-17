@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&duration=2500&pause=1000&color=7EE787&center=true&vCenter=true&width=850&lines=Cloud+%2B+DevOps+Engineer;Java+Developer;Full+Stack+Developer;DSA+Learner;Welcome+to+my+GitHub+Profile!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&duration=2500&pause=1000&color=7EE787&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;Welcome+to+my+GitHub+Profile!" />
 </p>  
 
 <h1 data-importer="text" align="center">Hi 👋, I'm Sarthak Mhasaye</h1>
