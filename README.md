@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&duration=2500&pause=1000&color=7EE787&center=true&vCenter=true&width=850&lines=Cloud+%2B+DevOps+Engineer;Java+Developer;Full+Stack+Developer;DSA+Learner;Welcome+to+my+GitHub+Profile!" />
+</p>  
+
 <h1 data-importer="text" align="center">Hi 👋, I'm Sarthak Mhasaye</h1>
 
 ###
@@ -54,7 +58,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sarthakmhasaye" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sarthakmhasaye" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sarthak mhasaye" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sarthak mhasaye" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sarthakmhasaye" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sarthak mhasaye" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sarthak_mhasaye" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sarthak_mhasaye" height="30" width="40" /></a>
 </p>
 
@@ -74,9 +78,11 @@
 ###
 
 <div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/SarthakMhasaye/SarthakMhasaye/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/SarthakMhasaye/SarthakMhasaye/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+ <p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SarthakMhasaye&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarthakMhasaye&layout=compact&theme=dracula" />
+</p>
 
 ###
 
@@ -84,7 +90,16 @@
 </div>
 
 ###
-
-<img data-importer="snake" src="https://raw.githubusercontent.com/SarthakMhasaye/SarthakMhasaye/snake-output/snake.svg" alt="Snake animation" />
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/SarthakMhasaye/SarthakMhasaye/snake-output/github-contribution-grid-snake-dark.svg">
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/SarthakMhasaye/SarthakMhasaye/snake-output/github-contribution-grid-snake.svg">
+  <img
+    alt="GitHub contribution snake"
+    src="https://raw.githubusercontent.com/SarthakMhasaye/SarthakMhasaye/snake-output/github-contribution-grid-snake-dark.svg">
+</picture>
 
 ###
