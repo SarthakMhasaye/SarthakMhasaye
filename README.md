@@ -77,11 +77,20 @@
 
 ###
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SarthakMhasaye&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarthakMhasaye&layout=compact&theme=dracula&hide_border=true" width="36%" />
-</p>
+<table>
+<tr>
+<td>
 
+<img src="https://github-readme-stats.vercel.app/api?username=SarthakMhasaye&show_icons=true&theme=dracula&hide_border=true"/>
+
+</td>
+<td>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarthakMhasaye&layout=compact&theme=dracula&hide_border=true&card_width=320"/>
+
+</td>
+</tr>
+</table>
 ###
 
 <div data-importer="stats" align="center">
